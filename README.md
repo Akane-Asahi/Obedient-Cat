@@ -25,6 +25,7 @@ You can then type "ls" to show all the lists of available file that you have in 
 <img width="449" alt="wget-ls" src="https://user-images.githubusercontent.com/111799231/186043397-e19d02ca-84bd-4a2c-8a7a-508afa6d0860.png">
 
 Wait, what? Flag!? I wonder what's inside of it. Let's check what do we have inside the file by typing a command "cat file_name". As the name of the file for this one is flag, the command will be like below,
+
 <img width="452" alt="flag" src="https://user-images.githubusercontent.com/111799231/186043420-4af929bb-210f-4cbb-b0ae-c6b92cd6b31e.png">
 
 Voila! You got the first ever flag for the picoCTF picogym! Congrats! Now copy this flag and paste it to submit the flag. Woohoo, wait a go hacker!
