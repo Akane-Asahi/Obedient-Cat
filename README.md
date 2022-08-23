@@ -1,6 +1,6 @@
 # Obedient-Cat
+![Thumbnail](https://user-images.githubusercontent.com/111799231/186043770-57fead40-63eb-4ad8-b10b-c6df7b1237c5.jpg)
 
-![image](https://user-images.githubusercontent.com/111799231/186043087-b39e9424-a389-4396-a483-0fa72010b1e9.png)
 PicoCTF picoGym Practice Challenges | ObedientCat
 From now on all the solution of the picogym CTF will be uploaded and posted here. I am a noob in Cyber Security and I am starting this journey to solve this 271 problems in next 271 days.
 
