@@ -9,8 +9,10 @@ Now let's get started with our very first challange, Obedient cat. Click on the 
 
 Then connect with your login credentials. 
 <img width="452" alt="console" src="https://user-images.githubusercontent.com/111799231/186043328-801921e9-0db9-4147-b9ef-1e5ea163071a.PNG">
+
 Then right click on the "Download flag" to copy the download link of the file.
 ![Screenshot (17)](https://user-images.githubusercontent.com/111799231/186043367-332c5be4-6f85-4d2c-87e5-23234559d7e3.png)
+
 Go to your webshell and write wget, then press ctrl+shift+v to paste the download link. it will download and save the file.
 <img width="455" alt="wget" src="https://user-images.githubusercontent.com/111799231/186043385-32e2d898-ae67-41b8-bfa0-bd20cb374f7a.PNG">
 
